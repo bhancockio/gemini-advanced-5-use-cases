@@ -9,7 +9,7 @@ Please perform the following steps:
    - Identify the trending topics—such as the recent releases of o3‑mini and Gemini Flash 2.0—and summarize why these topics are generating buzz.
 
 3. **Trending Content Research:**  
-   - Using insights from the Deep Trending Search, search for trending video topics within the AI application development niche (focused on AI agents and full‑stack apps) from the past 2 weeks.
+   - Using insights from the Deep Trending Search, search YouTube for trending video topics within the AI application development niche (focused on AI agents and full‑stack apps) from the past 2 weeks.
    - **Important:** Exclude any videos from my own channel (aiwithbrandon) and only use videos from external creators.
    - Identify high‑performing videos that have a view count exceeding the creator's subscriber count.
    - Filter out any content unrelated to AI agents or full‑stack AI applications.
@@ -23,3 +23,7 @@ Please perform the following steps:
          - **Links to videos that inspired this recommendation:**  
            - [List valid external YouTube video links here, ensuring each video has a view count higher than the creator's subscriber count]  
          - *(Optional: Include brief bullet points summarizing why this topic is trending and relevant.)*
+
+
+Important Notes:
+- Make sure you find the channels subscriber count. Do not make up your own numbers.
